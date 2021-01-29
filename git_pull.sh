@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ## Author: Evine Deng
-## Source: https://github.com/EvineDeng/jd-base
+## Source: https://github.com/mzxq0303/base
 ## Modified： 2021-01-27
 ## Version： v3.6.2
 
@@ -33,10 +33,10 @@ Scripts2URL=https://github.com/shylocks/Loon
 
 if [[ ${WhichDep} == *github* ]]; then
   ScriptsURL=https://github.com/LXK9301/jd_scripts
-  ShellURL=https://github.com/EvineDeng/jd-base
+  ShellURL=https://github.com/mzxq0303/base
 else
   ScriptsURL=https://gitee.com/lxk0301/jd_scripts
-  ShellURL=https://gitee.com/evine/jd-base
+  ShellURL=https://github.com/mzxq0303/base
 fi
 
 ## 更新shell脚本
